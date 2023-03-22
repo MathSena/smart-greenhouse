@@ -95,7 +95,7 @@ Referente a implantação do MQTT, a mesma foi realizada com sucesso devido a fa
  <img src= "docs/mediçoes feitas.PNG"  width="500" />
  
  Aqui está um link do vídeo de apresentação do projeto:
-https://www.youtube.com/watch?v=2f8W6dYVDHI&ab_channel=MatheusSena
+https://youtu.be/2f8W6dYVDHI
 
  
 
